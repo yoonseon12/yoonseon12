@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align=center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonseon12&count_private=true&icons=true&theme=shadow_green&count_private=true&hide=stars,issues)
+</div>
+
 
 <!--
 **yoonseon12/yoonseon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
