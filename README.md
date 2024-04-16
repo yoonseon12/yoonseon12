@@ -1,6 +1,6 @@
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats-five-wheat-87.vercel.app/api?username=yoonseon12&count_private=true&icons=true&theme=shadow_green&count_private=true&hide=stars,issues)
+![Anurag's GitHub stats](https://github-readme-stats-five-wheat-87.vercel.app/api?username=yoonseon12&icons=true&theme=shadow_green&count_private=true)
 </div>
 
 
