@@ -1,8 +1,8 @@
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats-five-wheat-87.vercel.app/api?username=yoonseon12&icons=true&theme=buefy&count_private=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats-five-wheat-87.vercel.app/api?username=yoonseon12&icons=true&theme=buefy&count_private=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonseon12&show_icons=true&theme=buefy)
 </div>
-
 
 <!--
 **yoonseon12/yoonseon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
